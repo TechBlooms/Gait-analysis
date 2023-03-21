@@ -56,6 +56,10 @@ The resulting, will open a window of the output.
 The keypoints in human body are detected and its respective skeletal image can also be brought.
 
 
+![1](https://user-images.githubusercontent.com/118420309/226533242-0690ca3f-fa67-4533-bf3b-f5582562be4c.png)
+![2](https://user-images.githubusercontent.com/118420309/226533259-ae94d539-8b47-4b54-b97c-5802c92ffc52.png)
+![3](https://user-images.githubusercontent.com/118420309/226533265-d0f5b598-61cc-47de-9dfb-e80f6786ddc3.png)
+![4](https://user-images.githubusercontent.com/118420309/226533270-b417a337-ff88-41ea-bc9c-d04d9d4a9970.png)
 
 
 
