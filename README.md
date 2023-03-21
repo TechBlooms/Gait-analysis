@@ -1,7 +1,9 @@
 # Pose estimation approach for Gait analysis using machine learning
 
  **Gait analysis** is a useful tool for diagnosing senility and frailty diseases. By transferring the pose estimation data to a correct statistical analysis, gait analysis can be carried out utilizing machine learning and computer vision approach, allowing physiotherapists to analyse and treat patients accordingly.
- 
+  <p align="center">
+ <img src="https://d2lfsu1qnyxzxu.cloudfront.net/cms/nga-feature.jpg" width=400 height=300> 
+ </p>
  
 ![](https://d2lfsu1qnyxzxu.cloudfront.net/cms/nga-feature.jpg)
 
@@ -59,10 +61,6 @@ The keypoints in human body are detected and its respective skeletal image can a
 
 <img src="https://user-images.githubusercontent.com/118420309/226533265-d0f5b598-61cc-47de-9dfb-e80f6786ddc3.png" width=400 height=300> <img src="https://user-images.githubusercontent.com/118420309/226533270-b417a337-ff88-41ea-bc9c-d04d9d4a9970.png" width=400 height=300>
 
-![1](https://user-images.githubusercontent.com/118420309/226533242-0690ca3f-fa67-4533-bf3b-f5582562be4c.png)
-![2](https://user-images.githubusercontent.com/118420309/226533259-ae94d539-8b47-4b54-b97c-5802c92ffc52.png)
-![3](https://user-images.githubusercontent.com/118420309/226533265-d0f5b598-61cc-47de-9dfb-e80f6786ddc3.png)
-![4](https://user-images.githubusercontent.com/118420309/226533270-b417a337-ff88-41ea-bc9c-d04d9d4a9970.png)
 
 
 
