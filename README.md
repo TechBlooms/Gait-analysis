@@ -17,7 +17,7 @@ We have used intelOneApi devcloud in the implementation of this to make it optim
 
 # 03 Implementation 
 
-The framework used in pose estimation is mediapipe. For keypoint detection, we use COCO dataset.
+The framework used in pose estimation is mediapipe. For keypoint detection, we use COCO dataset. The model is implemented in Jetson Nano and in Windows Laptop.
 
 
 # 04 Deployment of OneAPI
