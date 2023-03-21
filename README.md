@@ -2,10 +2,10 @@
 
  **Gait analysis** is a useful tool for diagnosing senility and frailty diseases. By transferring the pose estimation data to a correct statistical analysis, gait analysis can be carried out utilizing machine learning and computer vision approach, allowing physiotherapists to analyse and treat patients accordingly.
   <p align="center">
- <img src="https://d2lfsu1qnyxzxu.cloudfront.net/cms/nga-feature.jpg" width=400 height=300> 
+ <img src="https://d2lfsu1qnyxzxu.cloudfront.net/cms/nga-feature.jpg" width=500 height=300> 
  </p>
  
-![](https://d2lfsu1qnyxzxu.cloudfront.net/cms/nga-feature.jpg)
+
 
 
 # 01 Motivation
