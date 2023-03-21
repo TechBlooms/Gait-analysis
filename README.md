@@ -54,6 +54,11 @@ How to run,
 Make sure the virtual environment is activated and the python file.
 The resulting, will open a window of the output.
 
+
+https://user-images.githubusercontent.com/118420309/226570709-16cce2d2-95c6-440a-b2fa-cfacf5e657d3.mp4
+
+
+
 # 05 Poses Estimated
 The keypoints in human body are detected and its respective skeletal image can also be brought.
 
