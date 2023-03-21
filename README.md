@@ -55,6 +55,8 @@ The resulting, will open a window of the output.
 # 05 Poses Estimated
 The keypoints in human body are detected and its respective skeletal image can also be brought.
 
+<img src="https://user-images.githubusercontent.com/118420309/226533242-0690ca3f-fa67-4533-bf3b-f5582562be4c.png" width=400 height=300> <img src="https://user-images.githubusercontent.com/118420309/226533259-ae94d539-8b47-4b54-b97c-5802c92ffc52.png" width=400 height=300>
+
 
 ![1](https://user-images.githubusercontent.com/118420309/226533242-0690ca3f-fa67-4533-bf3b-f5582562be4c.png)
 ![2](https://user-images.githubusercontent.com/118420309/226533259-ae94d539-8b47-4b54-b97c-5802c92ffc52.png)
