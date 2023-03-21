@@ -10,7 +10,6 @@ The main problem observed is that physiotherapists will analyse stroke patients'
 
 # 02 Setup
 We have used intelOneApi devcloud in the implementation of this to make it optimized to work in different environments.
-![](https://miro.medium.com/max/1400/1*bSJl-WLup5TLXI7EIhZ0dA.png)
 
 # 03 Implementation 
 
@@ -44,6 +43,9 @@ Afer implementing the above commands, the terminal window has the openVINO vitua
 
 
 How to run,
+
+![gait ss openvino -1](https://user-images.githubusercontent.com/118420309/226524641-22238c84-ac60-4df3-992a-a06b71f323ca.png)
+
 
 Make sure the virtual environment is activated and the python file.
 The resulting, will open a window of the output.
